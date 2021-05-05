@@ -12,8 +12,6 @@
 ### Fixed
 - Dropdown elements redirecting to domain.
 
-# <hr>
-
 ## v1.0.0-beta
 ### Added
 - HTML Code is rewritten.
