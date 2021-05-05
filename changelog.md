@@ -4,7 +4,6 @@
 ### Added
 - Code structure is rewritten.
 - Index HTML Files for Linux and Windows Server Pages.
-- Windows Server Index HTML File.
 
 ### Changed
 - Version and release date of the application are now hidden until all of the data will load into the page.
