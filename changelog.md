@@ -1,11 +1,27 @@
 # Changelog
 
-## v1.0.0-beta
+## v1.0.3-beta
 ### Added
 - **HTML Code** is rewritten.
+- Linux Index HTML File.
+- Windows Server Index HTML File.
 
 ### Changed
-- **jQuery** updated from `1.1.7` to `3.4.1`.
+- Version and release date of the application are now hidden until all of the data will load into the page.
 
 ### Fixed
-- **Dropdown menu** not opening.
+- Dropdown elements redirecting to domain.
+
+# <hr>
+
+## v1.0.0-beta
+### Added
+- HTML Code is rewritten.
+- Application Index HTML File.
+- Preloader to data loading into the page.
+
+### Changed
+- jQuery version updated from `1.1.7` to `3.4.1`.
+
+### Fixed
+- Dropdown menu not opening.
