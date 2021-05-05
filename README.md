@@ -1,8 +1,8 @@
 # Changelog
 
-## 1.0.0
+## v1.0.0-beta
 ### Added
-- **HTML Code** is rewritten
+- **HTML Code** is rewritten.
 
 ### Changed
 - **jQuery** updated from `1.1.7` to `3.4.1`.
