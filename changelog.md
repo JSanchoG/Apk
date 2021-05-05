@@ -2,8 +2,8 @@
 
 ## v1.0.3-beta
 ### Added
-- **HTML Code** is rewritten.
-- Linux Index HTML File.
+- Code structure is rewritten.
+- Index HTML Files for Linux and Windows Server Pages.
 - Windows Server Index HTML File.
 
 ### Changed
