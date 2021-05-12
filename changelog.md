@@ -1,6 +1,9 @@
 # Changelog
 
 ## v1.0.4-beta
+### Added
+- Launch Screen with logo.
+
 ### Fixed
 - Recently uploaded notes not displaying.
 - Footer displaying details about the latest release instead of the one that is currently being used.
