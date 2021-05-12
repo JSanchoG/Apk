@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.4-beta
+### Fixed
+- Recently uploaded notes not displaying.
+- Footer displaying details about the latest release instead of the one that is currently being used.
+
 ## v1.0.3-beta
 ### Added
 - Code structure is rewritten.
