@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.0.7-beta
+### Added
+- Informatyka Page.
+
+### Changed
+- Useless Scripts removed.
+
+### Fixed
+- Launch Screen logo resizing.
+
 ## v1.0.4-beta
 ### Added
 - Launch Screen with logo.
