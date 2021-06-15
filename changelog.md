@@ -3,9 +3,9 @@
 ## v1.0.8-beta-2
 ### Changed
 - Domain Name (From "2tihub.xyz" To "tihub.pl").
-- Application Name (From "2TI Hub" To "TI Hub")
+- Application Name (From "2TI Hub" To "TI Hub").
 ### Fixed
-- Previous version not displaying 
+- Previous version not displaying data from JSON.
 
 ## v1.0.8-beta
 ### Fixed
