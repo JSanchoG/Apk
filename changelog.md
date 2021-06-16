@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.9-beta
+### Fixed
+- Linux and Windows Server not loading JSON data.
+
 ## v1.0.8-beta-2
 ### Changed
 - Domain Name (From "2tihub.xyz" To "tihub.pl").
@@ -16,7 +20,7 @@
 - Informatyka Page.
 
 ### Changed
-- Useless Scripts removed.
+- Useless Scripts were removed.
 
 ### Fixed
 - Launch Screen logo resizing.
