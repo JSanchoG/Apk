@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.0-beta
+### Fixed
+- Some of the pages not redirecting properly
+
+<hr>
+
 ## v1.0.9-beta
 ### Fixed
 - Linux and Windows Server not loading JSON data.
