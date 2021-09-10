@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.1.1-beta
+### Added
+- In-app notification about available application update.
+### Removed
+- Informatyka Page.
+
+<hr>
+
 ## v1.1.0-beta
 ### Fixed
 - Some of the pages not redirecting properly
